@@ -5,7 +5,7 @@
 //  return true if "word" exists in the grid
 
 // TC: O(m * n)
-// SC: O(m * n + L)
+// SC: O(m * n + L) L = recursion depth equals the length of the word.
 
 
 class Solution {
