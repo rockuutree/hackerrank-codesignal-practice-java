@@ -1,3 +1,4 @@
+package RandomLC;
 public class StringSum {
     public static void main (String[] args) {
         String a = "99";
